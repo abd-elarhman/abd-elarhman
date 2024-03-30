@@ -53,7 +53,7 @@ Hi, I'm Abdelrahman Ahmed Moussa, a passionate self-taught Embedded SW Engineer.
       <td><a href="" style="display:block; text-decoration:none;"><b>ARM</b></a></td>
     </tr>
     <tr style="border-bottom: 1.5px solid black;">
-      <td><a href="" style="display:block; text-decoration:none;"><b>AVR</b></a></td>
+      <td><a href="https://github.com/abd-elarhman/Atmega32-Drivers" style="display:block; text-decoration:none;"><b>AVR</b></a></td>
       </tr>
   </tbody>
 </table>
