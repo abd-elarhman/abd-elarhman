@@ -54,6 +54,10 @@ Hi, I'm Abdelrahman Ahmed Moussa, a passionate self-taught Embedded SW Engineer.
     </tr>
     <tr style="border-bottom: 1.5px solid black;">
       <td><a href="https://github.com/abd-elarhman/Atmega32-Drivers" style="display:block; text-decoration:none;"><b>AVR</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/abd-elarhman/Atmega32-Drivers?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/abd-elarhman/Atmega32-Drivers?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/abd-elarhman/Atmega32-Drivers?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abd-elarhman/Atmega32-Drivers?style=flat-square&labelColor=343b41"/></td>
       </tr>
   </tbody>
 </table>
