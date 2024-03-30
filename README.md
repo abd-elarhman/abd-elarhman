@@ -109,29 +109,19 @@ Hi, I'm Abdelrahman Ahmed Moussa, a passionate self-taught Embedded SW Engineer.
 
 ## 🌍 Languages
 
-<code>
-    <img height="50" src="assets/c.png"             alt="c logo"                  >
-    <img height="50" src="assets/cplusplus.png"     alt="cplusplus logo"          >
-    <img height="50" src="assets/css.png"           alt="css logo"                >
-    <img height="50" src="assets/html.png"          alt="html logo"               >
-    <img height="50" src="assets/javascript.png"    alt="javascript logo"         >
-    <img height="50" src="assets/python.png"    alt="python logo"         >
-    <img height="50" src="assets/makefile.png"      alt="makefile logo"           >
-</code>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py" />
+  </a>
+</p>
 
 ## 🛠️ Tools
 
-<code>
-    <img height="50" src="assets/git.png"           alt="git logo"                >
-    <img height="50" src="assets/vscode.png"        alt="vscode logo"             >
-    <img height="50" src="assets/keil_uVision.png"  alt="keil_uVision logo"       >
-    <img height="50" src="assets/stm32cube.png"     alt="stm32cube logo"          >
-    <img height="50" src="assets/proteus.png"       alt="proteus logo"            >
-    <img height="50" src="assets/arduino.png"       alt="arduino logo"            >
-    <img height="50" src="assets/notepad++.png"     alt="notepad++ logo"          >
-    <img height="50" src="assets/linux.png"         alt="linux logo"              >
-    <img height="50" src="assets/doxygen.png"       alt="doxygen logo"            >
-</code>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,ubuntu,raspberrypi,linux,vscode,eclipse,cmake,bash" />
+  </a>
+</p>
 
 ## 📈 My Contributions <br>
 
