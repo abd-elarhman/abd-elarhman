@@ -1,5 +1,5 @@
 <h1>
-    <img align="center" src="assets/welcome.png" >
+    <img align="center" src="assets/welcome.jpg" >
 </h1>
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="assets/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/abd-elarhman?label=Follow%20Me&style=social)](https://github.com/abd-elarhman)
