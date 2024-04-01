@@ -12,7 +12,7 @@
 Hi, I'm Abdelrahman Ahmed Moussa, a passionate self-taught Embedded SW Engineer.
 
 
-## 🔓 Projects
+## 🔓 Repositories
 
 <table style="width:100%;">
   <caption><b> Embedded Projects </b></caption>
@@ -50,37 +50,12 @@ Hi, I'm Abdelrahman Ahmed Moussa, a passionate self-taught Embedded SW Engineer.
   </thead>
   <tbody>
     <tr style="border-bottom: 1.5px solid black;">
-      <td><a href="" style="display:block; text-decoration:none;"><b>ARM</b></a></td>
-    </tr>
-    <tr style="border-bottom: 1.5px solid black;">
       <td><a href="https://github.com/abd-elarhman/Atmega32-Drivers" style="display:block; text-decoration:none;"><b>AVR</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/abd-elarhman/Atmega32-Drivers?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/abd-elarhman/Atmega32-Drivers?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/abd-elarhman/Atmega32-Drivers?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abd-elarhman/Atmega32-Drivers?style=flat-square&labelColor=343b41"/></td>
       </tr>
-  </tbody>
-</table>
-
-<table style="width:100%;">
-  <caption><b> C Projects </b></caption>
-  <colgroup>
-    <col span="1" style="width:25%;">
-  </colgroup>
-  <thead>
-  <thead>
-    <tr style="border-bottom: 1.5px solid black; background-color: rgba(0, 204, 204, 0.3);">
-      <th>🎁 Projects</th>
-      <th>⭐ Stars</th>
-      <th>📚 Forks</th>
-      <th>🛎 Issues</th>
-      <th>📬 Pull requests</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: 1.5px solid black;">
-      <td><a href="" style="display:block; text-decoration:none;"><b>C Labs</b></a></td>
-    </tr>
   </tbody>
 </table>
 
@@ -105,25 +80,22 @@ Hi, I'm Abdelrahman Ahmed Moussa, a passionate self-taught Embedded SW Engineer.
         </tr>
     </thead>
     <tbody>
-        <tr style="border-bottom: 1.5px solid black;">
-        <td><a href="" style="display:block;   text-decoration:none;"><b> Problem-Solving </b></a></td>
-    </tr>
+	    <tr style="border-bottom: 1.5px solid black;">
+        <td><a href="" style="display:block;      text-decoration:none;"><b>HackerRank</b></a></td>
+        <td><img alt="Stars" src=""/></td>
+        <td><img alt="Forks" src=""/></td>
+        <td><img alt="Issues" src=""/></td>
+        <td><img alt="Pull Requests" src=""/></td>
+        </tr>
   </tbody>
 </table>
 
-## 🌍 Languages
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py" />
-  </a>
-</p>
 
 ## 🛠️ Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,ubuntu,raspberrypi,linux,vscode,eclipse,cmake,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
   </a>
 </p>
 
