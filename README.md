@@ -14,24 +14,6 @@ Hi, I'm Abdelrahman Ahmed Moussa, a passionate self-taught Embedded SW Engineer.
 
 ## 🔓 Repositories
 
-<table style="width:100%;">
-  <caption><b> Embedded Projects </b></caption>
-  <colgroup>
-    <col span="1" style="width:25%;">
-  </colgroup>
-  <thead>
-    <tr style="border-bottom: 1.5px solid black; background-color: rgba(0, 204, 204, 0.3);">
-      <th>🎁 Projects</th>
-      <th>⭐ Stars</th>
-      <th>📚 Forks</th>
-      <th>🛎 Issues</th>
-      <th>📬 Pull requests</th>
-    </tr>
-  </thead>
-  <tbody>
-    
-  </tbody>
-</table>
 
 <table style="width:100%;">
     <caption><b> Microcontrollers Drivers </b></caption>
