@@ -87,7 +87,7 @@ Hi, I'm Abdelrahman Ahmed Moussa, a passionate self-taught Embedded SW Engineer.
     </thead>
     <tbody>
 	    <tr style="border-bottom: 1.5px solid black;">
-        <td><a href="https://github.com/abd-elarhman/HackerRank" style="display:block; text-decoration:none;"><b>HackerRank</b></a></td>
+        <td><a href="https://github.com/abd-elarhman/HackerRank" style="display:block; text-decoration:none;"><b>HackerRank-Solutions</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/abd-elarhman/HackerRank?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/abd-elarhman/HackerRank?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/abd-elarhman/HackerRank?style=flat-square&labelColor=343b41"/></td>
