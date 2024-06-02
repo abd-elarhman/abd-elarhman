@@ -65,11 +65,11 @@ Hi, I'm Abdelrahman Ahmed Moussa, a passionate self-taught Embedded SW Engineer.
   </tbody>
   <tbody>
     <tr style="border-bottom: 1.5px solid black;">
-      <td><a href="https://github.com/abd-elarhman/Arm Cortex-M3" style="display:block; text-decoration:none;"><b>ARM</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/abd-elarhman/Arm Cortex-M3?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/abd-elarhman/Arm Cortex-M3?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/abd-elarhman/Arm Cortex-M3?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abd-elarhman/Arm Cortex-M3?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/abd-elarhman/Arm-Cortex-M3" style="display:block; text-decoration:none;"><b>ARM</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/abd-elarhman/Arm-Cortex-M3?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/abd-elarhman/Arm-Cortex-M3?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/abd-elarhman/Arm-Cortex-M3?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abd-elarhman/Arm-Cortex-M3?style=flat-square&labelColor=343b41"/></td>
       </tr>
   </tbody>
 </table>
