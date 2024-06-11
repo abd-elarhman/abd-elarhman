@@ -27,6 +27,7 @@ Hi, I'm Abdelrahman Ahmed Moussa, a passionate self-taught Embedded SW Engineer.
       <th>🛎 Issues</th>
       <th>📬 Pull requests</th>
     </tr>
+
   </thead>
   <tbody>
      <tr style="border-bottom: 1.5px solid black;">
@@ -117,7 +118,7 @@ Hi, I'm Abdelrahman Ahmed Moussa, a passionate self-taught Embedded SW Engineer.
 ## 🏆 Certifications
 
 <p align="center">
-  <a href="Credential URL">
+  <a href="https://www.hackerrank.com/certificates/af4c88f54a10">
     <img src="assets/hackerrank-certification-badge.png" alt="HackerRank Problem Solving Basic Certification" width="100"/>
   </a>
 </p>
