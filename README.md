@@ -114,6 +114,20 @@ Hi, I'm Abdelrahman Ahmed Moussa, a passionate self-taught Embedded SW Engineer.
   </a>
 </p>
 
+## 🏆 Certifications
+
+<p align="center">
+  <a href="Credential URL">
+    <img src="assets/hackerrank-certification-badge.png" alt="HackerRank Problem Solving Basic Certification" width="100"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>HackerRank Problem Solving (Basic)</b><br>
+  Awarded for demonstrating essential problem-solving skills in C programming.<br>
+  <b>Issued</b>: [June, 2024] | <b>Credential ID</b>: [Af4C88F54A10]
+</p>
+
 ## 📈 My Contributions <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=abd-elarhman)
