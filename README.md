@@ -38,6 +38,18 @@ Hi, I'm Abdelrahman Ahmed Moussa, a passionate self-taught Embedded SW Engineer.
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abd-elarhman/Microwave-Oven?style=flat-square&labelColor=343b41""/></td>
     </tr>
   </tbody>
+
+  </thead>
+  <tbody>
+     <tr style="border-bottom: 1.5px solid black;">
+      <td><a href="https://github.com/abd-elarhman/Smart-Home" style="display:block; text-decoration:none;"><b>Smart-Home(FreeRtos)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/abd-elarhman/Smart-Home?style=flat-square&labelColor=343b41""/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/abd-elarhman/Smart-Home?style=flat-square&labelColor=343b41""/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/abd-elarhman/Smart-Home?style=flat-square&labelColor=343b41""/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abd-elarhman/Smart-Home?style=flat-square&labelColor=343b41""/></td>
+    </tr>
+  </tbody>
+
 </table>
 
 <table style="width:100%;">
